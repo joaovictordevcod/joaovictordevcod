@@ -34,4 +34,4 @@ Sou desenvolvedor Fullstack especializado em C# e estudante de Ciência da Compu
 
 ### 🚀 Sobre mim
 - 🎓 Estudante de Ciência da Computação
-- 🌱 Atualmente explorando Inteligência Artificial e desenvolvimento de APIs com Spring AI
+- 🌱 Atualmente explorando Inteligência Artificial
