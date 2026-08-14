@@ -6,15 +6,15 @@ Sou estudante de Ciência da Computação na UFG, com forte base analítica e ex
 
 ---
 
-### 🚀 Sobre Mim
-- 🎓 Graduando em Ciência da Computação na Universidade Federal de Goiás (UFG).
-- 📊 **Foco Atual:** Migrando para Engenharia/Ciência de Dados e explorando aplicações de Inteligência Artificial.
-- 💻 **Background:** Experiência sólida na construção de sistemas web, integrações backend (APIs e bancos de dados), estruturação de dados em baixo nível e projetos envolvendo hardware e robótica.
-- 🧩 **Diferencial:** Forte afinidade com raciocínio lógico, cálculo matemático e modelos computacionais complexos, base essencial para a manipulação de dados e machine learning.
+###  Sobre Mim
+-  Graduando em Ciência da Computação na Universidade Federal de Goiás (UFG).
+-  **Foco Atual:** Migrando para Engenharia/Ciência de Dados e explorando aplicações de Inteligência Artificial.
+-  **Background:** Experiência sólida na construção de sistemas web, integrações backend (APIs e bancos de dados), estruturação de dados em baixo nível e projetos envolvendo hardware e robótica.
+-  **Diferencial:** Forte afinidade com raciocínio lógico, cálculo matemático e modelos computacionais complexos, base essencial para a manipulação de dados e machine learning.
 
 ---
 
-### 🛠️ Stacks e Tecnologias
+###  Stacks e Tecnologias
 
 **Área de Dados & Inteligência Artificial (Foco de Estudos)**
 <div style="display: inline_block; margin-bottom: 20px;">
@@ -36,7 +36,7 @@ Sou estudante de Ciência da Computação na UFG, com forte base analítica e ex
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <a href="https://github.com/joaovictordevcod">
@@ -47,7 +47,7 @@ Sou estudante de Ciência da Computação na UFG, com forte base analítica e ex
 
 ---
 
-### 🌐 Conecte-se Comigo
+###  Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joão-victor-borges-1b1140238/">
